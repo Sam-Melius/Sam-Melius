@@ -1,8 +1,8 @@
 
 
 - 🔭 I’m currently working on ...
--       Developing my skills as a Full Stack Software Developer.
--       Finding a position as a Full Stack Software Developer.
+-       Developing my skills as a Full Stack Software Engineer.
+-       Finding a position as a Full Stack Software Engineer.
 
 - 📫 How to reach me: ...
 -       Email: samsjmelius@gmail.com
