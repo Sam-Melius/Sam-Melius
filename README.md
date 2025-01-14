@@ -8,5 +8,5 @@
 -       LinkedIn: https://www.linkedin.com/in/sam-melius-oxford/
 - 
 - 😄 Pronouns: ...
--       He/His
+-       He/Him
 -  
